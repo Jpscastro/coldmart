@@ -19,7 +19,7 @@ if (!empty($error) && $error <= '3') {
 ?>
 
 <head>
-    <title>Cadastro Coldmart</title>
+    <title>Cadastro ColdMart</title>
 </head>
 
 
